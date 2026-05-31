@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdrocess",
+        "uuid": 6352992,
+        "checksum": "wke5xj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
